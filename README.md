@@ -1,4 +1,4 @@
-# Green-Grocery2
+# Green-Grocery
 A MERN Project
 
 ## Problem Motivation
