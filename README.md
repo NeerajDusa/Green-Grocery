@@ -72,7 +72,7 @@ The API will run in the http://localhost:5000/ for the backend part and connceti
 ## Group Members
 
 <pre>
-Neeraj Dusa               - S20190010047
+Team Lead - Neeraj Dusa   - S20190010047
 Anirudh Jakhotia          - S20190010007
 Harish Mullagura          - S20190010124
 Rakesh Ganeshula          - S20190010052
